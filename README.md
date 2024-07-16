@@ -1,6 +1,6 @@
 ### 🫵🏼 Hello, I'm Gabriel Biroli 💡
 
-### DEV Student at European University, currently living in Spain. I'm brazilian, 24 years old and discovering new ways to be happy professionally.
+### DEV Student at European University, currently based in Spain. I'm brazilian, 24 years old and discovering new ways to be happy professionally.
 
 ### If you have any suggestions, opportunities or doubts, please feel free to contact me. 
 
