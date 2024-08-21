@@ -4,7 +4,8 @@
 
 ### If you have any suggestions, opportunities or doubts, please feel free to contact me. 
 
-### 📧 Contact: gabrielbiroli@gmail.com 
+### 📧 Contact: gabrielbiroli@gmail.com
+### Figma: www.figma.com/@gbiroli
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbiroli/)
 
