@@ -1,20 +1,19 @@
 ### 🫵🏼 Hello, I'm Gabriel Biroli 💡
 
-### Data Analyst & Business Intelligence Analyst. IT Graduate with international academic experience between Brazil and Spain 🇧🇷 🇪🇸
-### Former Data Analyst at European University (Madrid – Spain) 
-### Currently based in São Paulo – Brazil
-### Actively seeking Data & BI opportunities in Brazil and globally
+### Data Analyst & Business Intelligence Analyst  
+### IT Graduate with international academic experience between Brazil and Spain 🇧🇷 🇪🇸  
+### Former Data Analyst at European University (Madrid – Spain)  
+### Currently based in São Paulo – Brazil  
 
-### If you have any suggestions, opportunities or doubts, please feel free to contact me. 
+### Passionate about data analysis, automation, and building analytical solutions to support data-driven decision-making.  
+### Always open to exchanging ideas, collaborating on projects, and discussing data, BI, and analytics.
 
-### 📧 Contact: gabrielbiroli@gmail.com
-### 💻 Figma: www.figma.com/@gbiroli
+### 📧 Contact: gabrielbiroli@gmail.com  
+### 💻 Figma: www.figma.com/@gbiroli  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbiroli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbiroli/)
 
-![g-biroli GitHub stats](https://github-readme-stats.vercel.app/api?username=g-biroli&show_icons=true&theme=tokyonight)
-
-### Technologies I'm studying
+### Technologies I work with
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
