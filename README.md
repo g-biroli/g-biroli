@@ -1,7 +1,7 @@
 ### 🫵🏼 Hello, I'm Gabriel Biroli 💡
 
 ### Data Analyst & Business Intelligence Analyst  
-### IT Graduate with international academic experience between Brazil and Spain 🇧🇷 🇪🇸  
+### IT Graduate with international academic experience between Brazil and Spain 🌎
 ### Former Data Analyst at European University (Madrid – Spain)  
 ### Currently based in São Paulo – Brazil  
 
