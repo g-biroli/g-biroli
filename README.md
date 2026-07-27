@@ -10,9 +10,9 @@ Right now I'm looking for a junior data analyst role where I can keep building o
 
 ## What I work with
 
-**Day to day:** Python · Pandas · SQL (MySQL, SQLite) · Power BI · Excel
+**Day to day:** Python · Pandas · SQL (MySQL, SQLite) · Power BI · Excel · Databricks · GenAI
 
-**For building things:** Streamlit · HTML · CSS · JavaScript
+**For building personal things:** Streamlit · HTML · CSS · JavaScript · Phyton · GenAI :) 
 
 I'm comfortable going from raw data to a working dashboard. Not a designer, but I care about making outputs legible.
 
